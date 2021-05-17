@@ -1,0 +1,695 @@
+short_name,lon,name,eightd_has_key_dispenser,capacity,station_type,lat,electric_bike_surcharge_waiver,has_kiosk,eightd_station_services,externalId,stationId,legacyId,region_code,rack_model,address,dockless_bikes_parking_zone_capacity,client_station_id
+
+
+
+
+
+
+
+KA1503000018,-87.5764501141,Jeffery Blvd & 71st St,false,11,classic,41.76663823695,false,true,[],a3a3983e-a135-11e9-9cda-0a87ae2ba916,11,11,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TA1305000001,-87.626488,Wabash Ave & Cermak Rd,false,11,classic,41.852619,false,true,[],a3a43a25-a135-11e9-9cda-0a87ae2ba916,42,42,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KA1503000021,-87.586647,Stony Island Ave & 64th St,false,11,classic,41.778881,false,true,[],a3a528d0-a135-11e9-9cda-0a87ae2ba916,95,95,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+KA1503000023,-87.5853397391,Stony Island Ave & 67th St,false,11,classic,41.77345849948,false,true,[],a3a54cdb-a135-11e9-9cda-0a87ae2ba916,102,102,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13162,-87.6466029882431,Halsted St & 21st St,false,11,classic,41.85377981072743,false,true,[],a3a5f5e6-a135-11e9-9cda-0a87ae2ba916,135,135,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+
+
+13217,-87.61793,Calumet Ave & 33rd St,false,11,classic,41.8349,false,true,[],a3a639f5-a135-11e9-9cda-0a87ae2ba916,149,149,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+13245,-87.685854,Claremont Ave & Hirsch St,false,11,classic,41.907781,false,true,[],a3a6de38-a135-11e9-9cda-0a87ae2ba916,159,159,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+TA1307000066,-87.67564,Damen Ave & Coulter St,false,7,classic,41.8492,false,true,[],a3a706c0-a135-11e9-9cda-0a87ae2ba916,167,167,undefined,undefined,undefined,undefined,undefined
+
+
+
+13331,-87.654127,May St & Cullerton St,false,11,classic,41.855136,false,true,[],a3a71b0a-a135-11e9-9cda-0a87ae2ba916,171,171,undefined,undefined,undefined,undefined,undefined
+KA1504000133,-87.627690528,Rush St & Cedar St,false,11,classic,41.90230870122,false,true,[],a3a72012-a135-11e9-9cda-0a87ae2ba916,172,172,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+
+
+13266,-87.691392,Stave St & Armitage Ave,false,11,classic,41.917741,false,true,[],a3a762a1-a135-11e9-9cda-0a87ae2ba916,185,185,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+13213,-87.626938,State St & 29th St,false,11,classic,41.841707,false,true,[],a3a781a6-a135-11e9-9cda-0a87ae2ba916,193,193,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+TA1308000007,-87.616279,MLK Jr Dr & 47th St,false,11,classic,41.809851,false,true,[],a3a7a4fc-a135-11e9-9cda-0a87ae2ba916,200,200,undefined,undefined,undefined,undefined,undefined
+13083,-87.6216,Indiana Ave & 40th St,false,11,classic,41.82168,false,true,[],a3a7aa0e-a135-11e9-9cda-0a87ae2ba916,201,201,undefined,undefined,undefined,undefined,undefined
+
+
+TA1307000160,-87.618691,Prairie Ave & Garfield Blvd,false,11,classic,41.794853,false,true,[],a3a7b936-a135-11e9-9cda-0a87ae2ba916,204,204,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+TA1308000014,-87.640591,Normal Ave & Archer Ave,false,11,classic,41.849527,false,true,[],a3a7d279-a135-11e9-9cda-0a87ae2ba916,209,209,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+SL-006,-87.633879,Wells St & 19th St,false,11,classic,41.856802,false,true,[],a3a80009-a135-11e9-9cda-0a87ae2ba916,218,218,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13249,-87.668835,Ashland Ave & Belle Plaine Ave,false,11,classic,41.956057,false,true,[],a3a88a6d-a135-11e9-9cda-0a87ae2ba916,246,246,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TA1307000161,-87.64572,Halsted St & 37th St,false,11,classic,41.827059,false,true,[],a3a96aca-a135-11e9-9cda-0a87ae2ba916,262,262,undefined,undefined,undefined,undefined,undefined
+13215,-87.613533,Rhodes Ave & 32nd St,false,11,classic,41.836208,false,true,[],a3a96fd5-a135-11e9-9cda-0a87ae2ba916,263,263,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+KA1503000019,-87.586882871,Stony Island Ave & 75th St,false,11,classic,41.7586696704,false,true,[],a3a98e37-a135-11e9-9cda-0a87ae2ba916,270,270,undefined,undefined,undefined,undefined,undefined
+TA1308000023,-87.606582,Cottage Grove Ave & 43rd St,false,11,classic,41.816499,false,true,[],a3a99346-a135-11e9-9cda-0a87ae2ba916,271,271,undefined,undefined,undefined,undefined,undefined
+TA1308000036,-87.621857,Indiana Ave & 31st St,false,11,classic,41.838842,false,true,[],a3a9984a-a135-11e9-9cda-0a87ae2ba916,272,272,undefined,undefined,undefined,undefined,undefined
+
+
+
+13258,-87.6972,California Ave & North Ave,false,11,classic,41.91044,false,true,[],a3a9acc5-a135-11e9-9cda-0a87ae2ba916,276,276,undefined,undefined,undefined,undefined,undefined
+
+
+
+TA1308000046,-87.65114,Morgan St & 31st St,false,11,classic,41.8378,false,true,[],a3a9c0f6-a135-11e9-9cda-0a87ae2ba916,280,280,undefined,undefined,undefined,undefined,undefined
+TA1309000003,-87.685109,Western Ave & 24th St,false,7,classic,41.84847,false,true,[],a3a9c5f7-a135-11e9-9cda-0a87ae2ba916,281,281,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+TA1308000047,-87.664199,Southport Ave & Clark St,false,11,classic,41.957081,false,true,[],a3aa017e-a135-11e9-9cda-0a87ae2ba916,292,292,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13144,-87.679618,Seeley Ave & Roscoe St,false,11,classic,41.943403,false,true,[],a3aa54a0-a135-11e9-9cda-0a87ae2ba916,308,308,undefined,undefined,undefined,undefined,undefined
+TA1309000029,-87.682437,Leavitt St & Armitage Ave,false,11,classic,41.917805,false,true,[],a3aa59bb-a135-11e9-9cda-0a87ae2ba916,309,309,undefined,undefined,undefined,undefined,undefined
+13288,-87.677855,Damen Ave & Charleston St,false,11,classic,41.920082,false,true,[],a3aa5ed1-a135-11e9-9cda-0a87ae2ba916,310,310,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TA1309000055,-87.645143,Emerald Ave & 31st St,false,11,classic,41.838198,false,true,[],a3aaf7bc-a135-11e9-9cda-0a87ae2ba916,339,339,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+
+
+KA1503000030,-87.5771428255,Jeffery Blvd & 67th St,false,11,classic,41.77351755125,false,true,[],a3ac35ed-a135-11e9-9cda-0a87ae2ba916,352,352,undefined,undefined,undefined,undefined,undefined
+
+
+
+KA1503000045,-87.5864608775,Stony Island Ave & 71st St,false,11,classic,41.7664929373,false,true,[],a3ac4a7c-a135-11e9-9cda-0a87ae2ba916,356,356,undefined,undefined,undefined,undefined,undefined
+
+
+
+KA1503000040,-87.6574349533,Loomis St & Archer Ave,false,11,classic,41.84163253965,false,true,[],a3ac7978-a135-11e9-9cda-0a87ae2ba916,366,366,undefined,undefined,undefined,undefined,undefined
+
+
+KA1503000066,-87.6702983089,Wood St & 35th St,false,11,classic,41.83010465416,false,true,[],a3ac88db-a135-11e9-9cda-0a87ae2ba916,369,369,undefined,undefined,undefined,undefined,undefined
+
+KA1504000114,-87.7061278837,Kedzie Ave & Chicago Ave,false,11,classic,41.89546530305,false,true,[],a3ac9834-a135-11e9-9cda-0a87ae2ba916,373,373,undefined,undefined,undefined,undefined,undefined
+
+KA1504000113,-87.70260751247406,Sacramento Blvd & Franklin Blvd,false,11,classic,41.89046879243862,false,true,[],a3aca268-a135-11e9-9cda-0a87ae2ba916,375,375,undefined,undefined,undefined,undefined,undefined
+
+
+15666,-87.6962981368,California Ave & Lake St,false,11,classic,41.88445395657,false,true,[],a3acb1de-a135-11e9-9cda-0a87ae2ba916,378,378,undefined,undefined,undefined,undefined,undefined
+
+
+
+KA1503000010,-87.645213904,Halsted St & 51st St,false,11,classic,41.80183164049,false,true,[],a3acc649-a135-11e9-9cda-0a87ae2ba916,384,384,undefined,undefined,undefined,undefined,undefined
+KA1503000013,-87.633124,Princeton Ave & Garfield Blvd,false,11,classic,41.794982,false,true,[],a3accb60-a135-11e9-9cda-0a87ae2ba916,385,385,undefined,undefined,undefined,undefined,undefined
+KA1503000011,-87.6449900565,Halsted St & 56th St,false,11,classic,41.79292964599,false,true,[],a3acd078-a135-11e9-9cda-0a87ae2ba916,386,386,undefined,undefined,undefined,undefined,undefined
+KA1503000055,-87.6446208145,Halsted & 63rd - Kennedy-King Vaccination Site,false,11,classic,41.77938114228,false,true,[],a3acd5b1-a135-11e9-9cda-0a87ae2ba916,388,388,undefined,undefined,undefined,undefined,undefined
+KA1503000025,-87.6297463052,Wentworth Ave & 63rd St,false,11,classic,41.78007963264,false,true,[],a3acdae2-a135-11e9-9cda-0a87ae2ba916,390,390,undefined,undefined,undefined,undefined,undefined
+15597,-87.6446135779,Halsted St & 69th St,false,11,classic,41.76906172032,false,true,[],a3acdff9-a135-11e9-9cda-0a87ae2ba916,391,391,undefined,undefined,undefined,undefined,undefined
+KA1503000047,-87.6281959291,Perry Ave & 69th St,false,11,classic,41.76929308995,false,true,[],a3ace51b-a135-11e9-9cda-0a87ae2ba916,392,392,undefined,undefined,undefined,undefined,undefined
+15599,-87.616917925,Calumet Ave & 71st St,false,11,classic,41.76550800581,false,true,[],a3acea44-a135-11e9-9cda-0a87ae2ba916,393,393,undefined,undefined,undefined,undefined,undefined
+
+KA1503000028,-87.5758393587,Jeffery Blvd & 76th St,false,11,classic,41.75712006802,false,true,[],a3acf4eb-a135-11e9-9cda-0a87ae2ba916,395,395,undefined,undefined,undefined,undefined,undefined
+KA1503000024,-87.56644,Yates Blvd & 75th St,false,11,classic,41.758768,false,true,[],a3acfa38-a135-11e9-9cda-0a87ae2ba916,396,396,undefined,undefined,undefined,undefined,undefined
+
+KA1503000020,-87.55927465,South Shore Dr & 74th St,false,11,classic,41.76218896038,false,true,[],a3ad09b2-a135-11e9-9cda-0a87ae2ba916,399,399,undefined,undefined,undefined,undefined,undefined
+KA1503000003,-87.604959713,Cottage Grove Ave & 71st St,false,11,classic,41.76571903697,false,true,[],a3ad0ecb-a135-11e9-9cda-0a87ae2ba916,400,400,undefined,undefined,undefined,undefined,undefined
+15443,-87.635491,Shields Ave & 28th Pl,false,11,classic,41.842733,false,true,[],a3ad13e4-a135-11e9-9cda-0a87ae2ba916,401,401,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+15449,-87.6265680185,State St & Pershing Rd,false,11,classic,41.82301523798,false,true,[],a3ad2d57-a135-11e9-9cda-0a87ae2ba916,407,407,undefined,undefined,undefined,undefined,undefined
+KA1503000032,-87.643278,Union Ave & Root St,false,11,classic,41.819102,false,true,[],a3ad327e-a135-11e9-9cda-0a87ae2ba916,408,408,undefined,undefined,undefined,undefined,undefined
+KA1503000001,-87.6348193497,Shields Ave & 43rd St,false,11,classic,41.81620767856,false,true,[],a3ad37c2-a135-11e9-9cda-0a87ae2ba916,409,409,undefined,undefined,undefined,undefined,undefined
+
+KA1503000051,-87.6456165545,Halsted St & 47th Pl,false,11,classic,41.80813391481,false,true,[],a3ad42c3-a135-11e9-9cda-0a87ae2ba916,411,411,undefined,undefined,undefined,undefined,undefined
+KA1503000009,-87.633449288,Princeton Ave & 47th St,false,11,classic,41.80931770924,false,true,[],a3ad47f8-a135-11e9-9cda-0a87ae2ba916,412,412,undefined,undefined,undefined,undefined,undefined
+
+
+15470,-87.6180535802,Calumet Ave & 51st St,false,11,classic,41.80229465088,false,true,[],a3ad5764-a135-11e9-9cda-0a87ae2ba916,415,415,undefined,undefined,undefined,undefined,undefined
+
+
+KA1503000052,-87.6009581145,Ellis Ave & 53rd St,false,11,classic,41.79933626261,false,true,[],a3ad66e6-a135-11e9-9cda-0a87ae2ba916,418,418,undefined,undefined,undefined,undefined,undefined
+
+
+KA1503000073,-87.6158532619,MLK Jr Dr & 56th St,false,11,classic,41.79342945658,false,true,[],a3ad7636-a135-11e9-9cda-0a87ae2ba916,421,421,undefined,undefined,undefined,undefined,undefined
+KA1503000075,-87.6078521774,DuSable Museum,false,11,classic,41.79156801058,false,true,[],a3ad7b51-a135-11e9-9cda-0a87ae2ba916,422,422,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+KA1503000046,-87.5914159893,Dorchester Ave & 63rd St,false,11,classic,41.7804056457,false,true,[],a3ad9ad9-a135-11e9-9cda-0a87ae2ba916,428,428,undefined,undefined,undefined,undefined,undefined
+KA1503000031,-87.60563486,Cottage Grove Ave & 67th St,false,11,classic,41.77372095205,false,true,[],a3ada002-a135-11e9-9cda-0a87ae2ba916,429,429,undefined,undefined,undefined,undefined,undefined
+KA1503000053,-87.6159428567,MLK Jr Dr & 63rd St,false,11,classic,41.78008063659,false,true,[],a3ada52f-a135-11e9-9cda-0a87ae2ba916,430,430,undefined,undefined,undefined,undefined,undefined
+KA1503000033,-87.6133078304,Eberhart Ave & 61st St,false,11,classic,41.78414169317,false,true,[],a3adaa52-a135-11e9-9cda-0a87ae2ba916,431,431,undefined,undefined,undefined,undefined,undefined
+
+KA1504000082,-87.7048707493,Kedzie Ave & Harrison St,false,11,classic,41.87359967462,false,true,[],a3adb48a-a135-11e9-9cda-0a87ae2ba916,433,433,undefined,undefined,undefined,undefined,undefined
+
+15682,-87.7064961757,Kedzie Ave & Roosevelt Rd,false,11,classic,41.86649278172,false,true,[],a3adbedf-a135-11e9-9cda-0a87ae2ba916,435,435,undefined,undefined,undefined,undefined,undefined
+KA1504000102,-87.694521,Fairfield Ave & Roosevelt Rd,false,11,classic,41.866624,false,true,[],a3adc3f6-a135-11e9-9cda-0a87ae2ba916,436,436,undefined,undefined,undefined,undefined,undefined
+
+
+15686,-87.7050730318,Kedzie Ave & 21st St,false,11,classic,41.85353363213,false,true,[],a3add365-a135-11e9-9cda-0a87ae2ba916,439,439,undefined,undefined,undefined,undefined,undefined
+15687,-87.715068,Central Park Ave & 24th St,false,11,classic,41.8481,false,true,[],a3add889-a135-11e9-9cda-0a87ae2ba916,440,440,undefined,undefined,undefined,undefined,undefined
+KA1504000086,-87.7054137458,Kedzie Ave & 24th St,false,11,classic,41.84819094491,false,true,[],a3addda0-a135-11e9-9cda-0a87ae2ba916,441,441,undefined,undefined,undefined,undefined,undefined
+15689,-87.6951398068,California Ave & 23rd Pl,false,11,classic,41.84910969176,false,true,[],a3ade2c3-a135-11e9-9cda-0a87ae2ba916,442,442,undefined,undefined,undefined,undefined,undefined
+KA1504000110,-87.71592199802399,Millard Ave & 26th St,false,7,classic,41.84453112462163,false,true,[],a3ade7de-a135-11e9-9cda-0a87ae2ba916,443,443,undefined,undefined,undefined,undefined,undefined
+15691,-87.7020130128,Albany Ave & 26th St,false,11,classic,41.84447501366,false,true,[],a3aded13-a135-11e9-9cda-0a87ae2ba916,444,444,undefined,undefined,undefined,undefined,undefined
+15692,-87.6952959227,California Ave & 26th St,false,11,classic,41.84404003127,false,true,[],a3ae687f-a135-11e9-9cda-0a87ae2ba916,445,445,undefined,undefined,undefined,undefined,undefined
+KA1504000168,-87.6851314409,Western & 28th - Velasquez Institute Vaccination Site,false,11,classic,41.84151770807,false,true,[],a3ae6e48-a135-11e9-9cda-0a87ae2ba916,446,446,undefined,undefined,undefined,undefined,undefined
+
+RP-002,-87.6806661451,Warren Park East,false,11,classic,42.00454962194,false,true,[],a3ae78ab-a135-11e9-9cda-0a87ae2ba916,448,448,undefined,undefined,undefined,undefined,undefined
+
+RP-001,-87.688829,Warren Park West,false,11,classic,42.001785,false,true,[],a3ae82e0-a135-11e9-9cda-0a87ae2ba916,450,450,undefined,undefined,undefined,undefined,undefined
+
+KA1504000129,-87.689438282,Western Ave & Granville Ave,false,11,classic,41.99416136902,false,true,[],a3ae8d13-a135-11e9-9cda-0a87ae2ba916,452,452,undefined,undefined,undefined,undefined,undefined
+
+
+KA1504000130,-87.6933696402,Maplewood Ave & Peterson Ave,false,11,classic,41.99023602867,false,true,[],a3af1cec-a135-11e9-9cda-0a87ae2ba916,455,455,undefined,undefined,undefined,undefined,undefined
+KA1504000155,-87.683593,2112 W Peterson Ave,false,11,classic,41.991178,false,true,[],a3af2216-a135-11e9-9cda-0a87ae2ba916,456,456,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+RP-006,-87.6829126443,Ridge Blvd & Touhy Ave,false,11,classic,42.01213227742,false,true,[],a3af5804-a135-11e9-9cda-0a87ae2ba916,466,466,undefined,undefined,undefined,undefined,undefined
+
+15585,-87.6964225611,Budlong Woods Library,false,11,classic,41.98366470886,false,true,[],a3af624c-a135-11e9-9cda-0a87ae2ba916,468,468,undefined,undefined,undefined,undefined,undefined
+
+KA1504000128,-87.709261,Kedzie Ave & Foster Ave,false,11,classic,41.975672,false,true,[],a3af71a9-a135-11e9-9cda-0a87ae2ba916,470,470,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+KA1504000127,-87.700825,Manor Ave & Leland Ave,false,11,classic,41.965875,false,true,[],a3af9064-a135-11e9-9cda-0a87ae2ba916,477,477,undefined,undefined,undefined,undefined,undefined
+
+
+15621,-87.705866,Albany Ave & Montrose Ave,false,11,classic,41.961041,false,true,[],a3af9f99-a135-11e9-9cda-0a87ae2ba916,480,480,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+KA1504000141,-87.731023,Pulaski Rd & Eddy St (Temp),false,11,classic,41.946264,false,true,[],a3afc858-a135-11e9-9cda-0a87ae2ba916,488,488,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+15634,-87.687288,Western Ave & Roscoe St,false,11,classic,41.943034,false,true,[],a3afe1dc-a135-11e9-9cda-0a87ae2ba916,493,493,undefined,undefined,undefined,undefined,undefined
+
+KA1504000164,-87.7289701012,Keystone Ave & Montrose Ave,false,11,classic,41.96110801623,false,true,[],a3afebff-a135-11e9-9cda-0a87ae2ba916,495,495,undefined,undefined,undefined,undefined,undefined
+15640,-87.723574,Avers Ave & Belmont Ave,false,11,classic,41.939408,false,true,[],a3aff10c-a135-11e9-9cda-0a87ae2ba916,496,496,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+
+
+
+15654,-87.709219571,Spaulding Ave & Division St,false,11,classic,41.90270659438,false,true,[],a3b0b801-a135-11e9-9cda-0a87ae2ba916,510,510,undefined,undefined,undefined,undefined,undefined
+
+514,-87.68452,Ridge Blvd & Howard St,false,11,classic,42.019276,false,true,[],a3b0ccad-a135-11e9-9cda-0a87ae2ba916,514,514,undefined,undefined,undefined,undefined,undefined
+
+517,-87.675005,Clark St & Jarvis Ave,false,11,classic,42.015963,false,true,[],a3b0d6ec-a135-11e9-9cda-0a87ae2ba916,517,517,undefined,undefined,undefined,undefined,undefined
+518,-87.716866,Conservatory Dr & Lake St,false,11,classic,41.885502,false,true,[],a3b0dc1f-a135-11e9-9cda-0a87ae2ba916,518,518,undefined,undefined,undefined,undefined,undefined
+519,-87.677725,Wolcott Ave & Fargo Ave,false,11,classic,42.016977,false,true,[],a3b0e141-a135-11e9-9cda-0a87ae2ba916,519,519,undefined,undefined,undefined,undefined,undefined
+
+16806,-87.669563,Bosworth Ave & Howard St,false,11,classic,42.019537,false,true,[],a3b0eb93-a135-11e9-9cda-0a87ae2ba916,522,522,undefined,undefined,undefined,undefined,undefined
+
+16921,-87.774704,Austin Blvd & Chicago Ave,false,7,classic,41.894887,false,true,[],a3b0f5c9-a135-11e9-9cda-0a87ae2ba916,524,524,undefined,undefined,undefined,undefined,undefined
+
+RP-004,-87.688243,Oakley Ave & Touhy Ave,false,11,classic,42.012342,false,true,[],a3b0fff9-a135-11e9-9cda-0a87ae2ba916,526,526,undefined,undefined,undefined,undefined,undefined
+
+528,-87.726491,Pulaski Rd & Lake St,false,11,classic,41.885409,false,true,[],a3b10a40-a135-11e9-9cda-0a87ae2ba916,528,528,undefined,undefined,undefined,undefined,undefined
+16903,-87.745261,Cicero Ave & Lake St,false,11,classic,41.886841,false,true,[],a3b10f66-a135-11e9-9cda-0a87ae2ba916,529,529,undefined,undefined,undefined,undefined,undefined
+530,-87.755527,Laramie Ave & Kinzie St,false,11,classic,41.887832,false,true,[],a3b11480-a135-11e9-9cda-0a87ae2ba916,530,530,undefined,undefined,undefined,undefined,undefined
+16905,-87.765469,Central Ave & Lake St,false,11,classic,41.887664,false,true,[],a3b11993-a135-11e9-9cda-0a87ae2ba916,531,531,undefined,undefined,undefined,undefined,undefined
+16906,-87.774446,Austin Blvd & Lake St,false,11,classic,41.887919,false,true,[],a3b11ea4-a135-11e9-9cda-0a87ae2ba916,532,532,undefined,undefined,undefined,undefined,undefined
+16907,-87.71547,Central Park Blvd & 5th Ave,false,11,classic,41.875679,false,true,[],a3b123c5-a135-11e9-9cda-0a87ae2ba916,533,533,undefined,undefined,undefined,undefined,undefined
+534,-87.727907,Karlov Ave & Madison St,false,11,classic,41.88085,false,true,[],a3b128de-a135-11e9-9cda-0a87ae2ba916,534,534,undefined,undefined,undefined,undefined,undefined
+535,-87.725704,Pulaski Rd & Congress Pkwy,false,11,classic,41.874325,false,true,[],a3b12dfb-a135-11e9-9cda-0a87ae2ba916,535,535,undefined,undefined,undefined,undefined,undefined
+536,-87.73541,Kostner Ave & Lake St,false,11,classic,41.885928,false,true,[],a3b1330c-a135-11e9-9cda-0a87ae2ba916,536,536,undefined,undefined,undefined,undefined,undefined
+537,-87.741018,Kenton Ave & Madison St,false,11,classic,41.880708,false,true,[],a3b13836-a135-11e9-9cda-0a87ae2ba916,537,537,undefined,undefined,undefined,undefined,undefined
+16912,-87.746619,Cicero Ave & Flournoy St,false,11,classic,41.872131,false,true,[],a3b13e66-a135-11e9-9cda-0a87ae2ba916,538,538,undefined,undefined,undefined,undefined,undefined
+16913,-87.745405,Cicero Ave & Quincy St,false,11,classic,41.877613,false,true,[],a3b143aa-a135-11e9-9cda-0a87ae2ba916,539,539,undefined,undefined,undefined,undefined,undefined
+540,-87.755337,Laramie Ave & Madison St,false,11,classic,41.880207,false,true,[],a3b148bf-a135-11e9-9cda-0a87ae2ba916,540,540,undefined,undefined,undefined,undefined,undefined
+16915,-87.764499,Central Ave & Harrison St,false,11,classic,41.872993,false,true,[],a3b1c47b-a135-11e9-9cda-0a87ae2ba916,541,541,undefined,undefined,undefined,undefined,undefined
+16916,-87.763238,Central Ave & Madison St,false,11,classic,41.880121,false,true,[],a3b1ca28-a135-11e9-9cda-0a87ae2ba916,542,542,undefined,undefined,undefined,undefined,undefined
+543,-87.755285,Laramie Ave & Gladys Ave,false,11,classic,41.875806,false,true,[],a3b1cf80-a135-11e9-9cda-0a87ae2ba916,543,543,undefined,undefined,undefined,undefined,undefined
+16918,-87.774453,Austin Blvd & Madison St,false,11,classic,41.880281,false,true,[],a3b1d532-a135-11e9-9cda-0a87ae2ba916,544,544,undefined,undefined,undefined,undefined,undefined
+545,-87.735737,Kostner Ave & Adams St,false,11,classic,41.877917,false,true,[],a3b1db23-a135-11e9-9cda-0a87ae2ba916,545,545,undefined,undefined,undefined,undefined,undefined
+546,-87.676597,Damen Ave & Pershing Rd,false,11,classic,41.823192,false,true,[],a3b1e065-a135-11e9-9cda-0a87ae2ba916,546,546,undefined,undefined,undefined,undefined,undefined
+16932,-87.665577,Ashland Ave & Pershing Rd,false,11,classic,41.823465,false,true,[],a3b1e588-a135-11e9-9cda-0a87ae2ba916,547,547,undefined,undefined,undefined,undefined,undefined
+16933,-87.650931,Morgan St & Pershing Rd,false,7,classic,41.823613,false,true,[],a3b1eaa7-a135-11e9-9cda-0a87ae2ba916,548,548,undefined,undefined,undefined,undefined,undefined
+549,-87.666589,Marshfield Ave & 44th St,false,11,classic,41.813996,false,true,[],a3b1efd6-a135-11e9-9cda-0a87ae2ba916,549,549,undefined,undefined,undefined,undefined,undefined
+16920,-87.764902,Central Ave & Chicago Ave,false,11,classic,41.894958,false,true,[],a3b1f4fb-a135-11e9-9cda-0a87ae2ba916,550,550,undefined,undefined,undefined,undefined,undefined
+KA1504000091,-87.67718,Hoyne Ave & 47th St,false,11,classic,41.808227,false,true,[],a3b1fa1c-a135-11e9-9cda-0a87ae2ba916,551,551,undefined,undefined,undefined,undefined,undefined
+16937,-87.66454,Ashland Ave & McDowell Ave,false,11,classic,41.80887,false,true,[],a3b1ff34-a135-11e9-9cda-0a87ae2ba916,552,552,undefined,undefined,undefined,undefined,undefined
+553,-87.656526,Elizabeth St & 47th St,false,11,classic,41.80839,false,true,[],a3b2044b-a135-11e9-9cda-0a87ae2ba916,553,553,undefined,undefined,undefined,undefined,undefined
+554,-87.674684,Damen Ave & 51st St,false,7,classic,41.800908,false,true,[],a3b20960-a135-11e9-9cda-0a87ae2ba916,554,554,undefined,undefined,undefined,undefined,undefined
+16940,-87.664699,Ashland Ave & 50th St,false,11,classic,41.803023,false,true,[],a3b20e8a-a135-11e9-9cda-0a87ae2ba916,555,555,undefined,undefined,undefined,undefined,undefined
+556,-87.657195,Throop St & 52nd St,false,7,classic,41.799659,false,true,[],a3b213af-a135-11e9-9cda-0a87ae2ba916,556,556,undefined,undefined,undefined,undefined,undefined
+557,-87.675478,Seeley Ave & Garfield Blvd,false,11,classic,41.794087,false,true,[],a3b218cd-a135-11e9-9cda-0a87ae2ba916,557,557,undefined,undefined,undefined,undefined,undefined
+16943,-87.664429,Ashland Ave & Garfield Blvd,false,11,classic,41.792822,false,true,[],a3b21de7-a135-11e9-9cda-0a87ae2ba916,558,558,undefined,undefined,undefined,undefined,undefined
+559,-87.655073,Racine Ave & Garfield Blvd,false,11,classic,41.794228,false,true,[],a3b222fc-a135-11e9-9cda-0a87ae2ba916,559,559,undefined,undefined,undefined,undefined,undefined
+560,-87.666215,Marshfield Ave & 59th St,false,11,classic,41.786833,false,true,[],a3b22815-a135-11e9-9cda-0a87ae2ba916,560,560,undefined,undefined,undefined,undefined,undefined
+561,-87.67390653491019,Damen Ave & 59th St,false,11,classic,41.784770075728936,false,true,[],a3b22d3d-a135-11e9-9cda-0a87ae2ba916,561,561,undefined,undefined,undefined,undefined,undefined
+562,-87.654372,Racine Ave & 61st St,false,11,classic,41.783189,false,true,[],a3b23263-a135-11e9-9cda-0a87ae2ba916,562,562,undefined,undefined,undefined,undefined,undefined
+16948,-87.664843,Ashland Ave & 63rd St,false,11,classic,41.779374,false,true,[],a3b23785-a135-11e9-9cda-0a87ae2ba916,563,563,undefined,undefined,undefined,undefined,undefined
+564,-87.654308,Racine Ave & 65th St,false,11,classic,41.775393,false,true,[],a3b23cb8-a135-11e9-9cda-0a87ae2ba916,564,564,undefined,undefined,undefined,undefined,undefined
+16950,-87.663815,Ashland Ave & 66th St,false,7,classic,41.774074,false,true,[],a3b241df-a135-11e9-9cda-0a87ae2ba916,565,565,undefined,undefined,undefined,undefined,undefined
+567,-87.652934,May St & 69th St,false,11,classic,41.768938,false,true,[],a3b24c1f-a135-11e9-9cda-0a87ae2ba916,567,567,undefined,undefined,undefined,undefined,undefined
+16953,-87.63121,Vincennes Ave & 75th St,false,7,classic,41.75797,false,true,[],a3b2513d-a135-11e9-9cda-0a87ae2ba916,568,568,undefined,undefined,undefined,undefined,undefined
+569,-87.595751,Woodlawn Ave & 75th St,false,11,classic,41.75916,false,true,[],a3b25656-a135-11e9-9cda-0a87ae2ba916,569,569,undefined,undefined,undefined,undefined,undefined
+570,-87.60641,Evans Ave & 75th St,false,7,classic,41.75849,false,true,[],a3b25b6d-a135-11e9-9cda-0a87ae2ba916,570,570,undefined,undefined,undefined,undefined,undefined
+571,-87.614138,Vernon Ave & 75th St,false,11,classic,41.758361,false,true,[],a3b26084-a135-11e9-9cda-0a87ae2ba916,571,571,undefined,undefined,undefined,undefined,undefined
+572,-87.624621,State St & 76th St,false,11,classic,41.756971,false,true,[],a3b2659d-a135-11e9-9cda-0a87ae2ba916,572,572,undefined,undefined,undefined,undefined,undefined
+573,-87.624424,State St & 79th St,false,11,classic,41.750794,false,true,[],a3b26acf-a135-11e9-9cda-0a87ae2ba916,573,573,undefined,undefined,undefined,undefined,undefined
+574,-87.61379,Vernon Ave & 79th St,false,11,classic,41.75094,false,true,[],a3b26fee-a135-11e9-9cda-0a87ae2ba916,574,574,undefined,undefined,undefined,undefined,undefined
+575,-87.605026,Cottage Grove Ave & 78th St,false,11,classic,41.753174,false,true,[],a3b2767f-a135-11e9-9cda-0a87ae2ba916,575,575,undefined,undefined,undefined,undefined,undefined
+576,-87.597552,Greenwood Ave & 79th St,false,11,classic,41.751294,false,true,[],a3b27bcf-a135-11e9-9cda-0a87ae2ba916,576,576,undefined,undefined,undefined,undefined,undefined
+577,-87.585337,Stony Island Ave & South Chicago Ave,false,11,classic,41.751173,false,true,[],a3b2810e-a135-11e9-9cda-0a87ae2ba916,577,577,undefined,undefined,undefined,undefined,undefined
+16970,-87.578496,Bennett Ave & 79th St,false,11,classic,41.751785,false,true,[],a3b2862e-a135-11e9-9cda-0a87ae2ba916,578,578,undefined,undefined,undefined,undefined,undefined
+579,-87.565211,Phillips Ave & 79th St,false,11,classic,41.75182,false,true,[],a3b28b4a-a135-11e9-9cda-0a87ae2ba916,579,579,undefined,undefined,undefined,undefined,undefined
+580,-87.552812,Exchange Ave & 79th St,false,11,classic,41.751731,false,true,[],a3b2905a-a135-11e9-9cda-0a87ae2ba916,580,580,undefined,undefined,undefined,undefined,undefined
+TA1309000051,-87.551208,Commercial Ave & 83rd St,false,11,classic,41.744615,false,true,[],a3b2956a-a135-11e9-9cda-0a87ae2ba916,581,581,undefined,undefined,undefined,undefined,undefined
+582,-87.56506,Phillips Ave & 83rd St,false,11,classic,41.744531,false,true,[],a3b29a90-a135-11e9-9cda-0a87ae2ba916,582,582,undefined,undefined,undefined,undefined,undefined
+583,-87.586005,Stony Island Ave & 82nd St,false,11,classic,41.746559,false,true,[],a3b29fae-a135-11e9-9cda-0a87ae2ba916,583,583,undefined,undefined,undefined,undefined,undefined
+584,-87.599034,Ellis Ave & 83rd St,false,11,classic,41.744123,false,true,[],a3b2a4ca-a135-11e9-9cda-0a87ae2ba916,584,584,undefined,undefined,undefined,undefined,undefined
+585,-87.604836,Cottage Grove Ave & 83rd St,false,11,classic,41.743441,false,true,[],a3b2a9e7-a135-11e9-9cda-0a87ae2ba916,585,585,undefined,undefined,undefined,undefined,undefined
+586,-87.6148,MLK Jr Dr & 83rd St,false,11,classic,41.743116,false,true,[],a3b2af02-a135-11e9-9cda-0a87ae2ba916,586,586,undefined,undefined,undefined,undefined,undefined
+587,-87.622849,Wabash Ave & 83rd St,false,11,classic,41.743316,false,true,[],a3b2b419-a135-11e9-9cda-0a87ae2ba916,587,587,undefined,undefined,undefined,undefined,undefined
+588,-87.575225,South Chicago Ave & 83rd St,false,11,classic,41.743921,false,true,[],a3b2b92c-a135-11e9-9cda-0a87ae2ba916,588,588,undefined,undefined,undefined,undefined,undefined
+16991,-87.749594,Milwaukee Ave & Cuyler Ave,false,11,classic,41.954468,false,true,[],a3b2be3a-a135-11e9-9cda-0a87ae2ba916,589,589,undefined,undefined,undefined,undefined,undefined
+590,-87.740569,Kilbourn Ave & Irving Park Rd,false,11,classic,41.953733,false,true,[],a3b2c354-a135-11e9-9cda-0a87ae2ba916,590,590,undefined,undefined,undefined,undefined,undefined
+
+592,-87.745359,Knox Ave & Montrose Ave,false,11,classic,41.960631,false,true,[],a3b2cd97-a135-11e9-9cda-0a87ae2ba916,592,592,undefined,undefined,undefined,undefined,undefined
+593,-87.644874,Halsted St & 59th St,false,11,classic,41.787539,false,true,[],a3b2d2b7-a135-11e9-9cda-0a87ae2ba916,593,593,undefined,undefined,undefined,undefined,undefined
+594,-87.683392,Western Blvd & 48th Pl,false,11,classic,41.805661,false,true,[],a3b2d7d9-a135-11e9-9cda-0a87ae2ba916,594,594,undefined,undefined,undefined,undefined,undefined
+595,-87.622634,Wabash Ave & 87th St,false,11,classic,41.736646,false,true,[],a3b2dcf0-a135-11e9-9cda-0a87ae2ba916,595,595,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+16010,-87.72785,Keystone Ave & Fullerton Ave,false,11,classic,41.92459,false,true,[],a3b35885-a135-11e9-9cda-0a87ae2ba916,619,619,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+
+
+18003,-87.620104,Fairbanks St & Superior St,false,11,classic,41.895748,false,true,[],a3b39bb0-a135-11e9-9cda-0a87ae2ba916,635,635,undefined,undefined,undefined,undefined,undefined
+636,-87.636618,Orleans St & Hubbard St,false,11,classic,41.890028,false,true,[],a3b3a0c8-a135-11e9-9cda-0a87ae2ba916,636,636,undefined,undefined,undefined,undefined,undefined
+
+
+
+18016,-87.713949,Bernard St & Elston Ave,false,11,classic,41.949923,false,true,[],a3b42a3e-a135-11e9-9cda-0a87ae2ba916,640,640,undefined,undefined,undefined,undefined,undefined
+18017,-87.716755,Central Park Ave & Bloomingdale Ave,false,11,classic,41.914166,false,true,[],a3b42f5f-a135-11e9-9cda-0a87ae2ba916,641,641,undefined,undefined,undefined,undefined,undefined
+642,-87.756895,Latrobe Ave & Chicago Ave,false,7,classic,41.894745,false,true,[],a3b43478-a135-11e9-9cda-0a87ae2ba916,642,642,undefined,undefined,undefined,undefined,undefined
+
+644,-87.686234,Western Ave & Fillmore St,false,11,classic,41.868563,false,true,[],a3b43eb7-a135-11e9-9cda-0a87ae2ba916,644,644,undefined,undefined,undefined,undefined,undefined
+18022,-87.683144,Archer (Damen) Ave & 37th St,false,11,classic,41.826712,false,true,[],a3b443ce-a135-11e9-9cda-0a87ae2ba916,645,645,undefined,undefined,undefined,undefined,undefined
+646,-87.625923,State St & 54th St,false,11,classic,41.796642,false,true,[],a3b4497a-a135-11e9-9cda-0a87ae2ba916,646,646,undefined,undefined,undefined,undefined,undefined
+647,-87.655859,Elizabeth St & 59th St,false,7,classic,41.786691,false,true,[],a3b44eba-a135-11e9-9cda-0a87ae2ba916,647,647,undefined,undefined,undefined,undefined,undefined
+18025,-87.650919,Carpenter St & 63rd St,false,7,classic,41.77987,false,true,[],a3b453f2-a135-11e9-9cda-0a87ae2ba916,648,648,undefined,undefined,undefined,undefined,undefined
+649,-87.634774,Stewart Ave & 63rd St,false,11,classic,41.779835,false,true,[],a3b4590f-a135-11e9-9cda-0a87ae2ba916,649,649,undefined,undefined,undefined,undefined,undefined
+650,-87.635876,Eggleston Ave & 69th St,false,11,classic,41.768898,false,true,[],a3b45e26-a135-11e9-9cda-0a87ae2ba916,650,650,undefined,undefined,undefined,undefined,undefined
+652,-87.611726,Rhodes Ave & 71st St,false,11,classic,41.766,false,true,[],a3b46866-a135-11e9-9cda-0a87ae2ba916,652,652,undefined,undefined,undefined,undefined,undefined
+653,-87.584846,Cornell Dr & Hayes Dr,false,11,classic,41.780595,false,true,[],a3b46d7b-a135-11e9-9cda-0a87ae2ba916,653,653,undefined,undefined,undefined,undefined,undefined
+654,-87.656952,Racine Ave & Washington Blvd,false,11,classic,41.883073,false,true,[],a3b4728f-a135-11e9-9cda-0a87ae2ba916,654,654,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+665,-87.580046,South Chicago Ave & Elliot Ave,false,7,classic,41.747363,false,true,[],a3b4aa91-a135-11e9-9cda-0a87ae2ba916,665,665,undefined,undefined,undefined,undefined,undefined
+
+RN-,-87.63547986745834,Franklin St & Illinois St,false,11,classic,41.89102331025185,false,true,[],8995498f-1209-4b06-9317-01cd695b3b61,672,672,undefined,undefined,undefined,undefined,undefined
+
+651,-87.621748,Michigan Ave & 71st St,false,7,classic,41.765286,false,true,[],61695579-2f75-4090-a071-c76079b5fb5d,674,674,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20222,-87.52823173999786,Burnham Greenway & 105th St,false,11,classic,41.7045750872071,false,true,[],c1f104db-9ee7-4999-bd4a-ddd766c75e04,710,710,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+
+20223,-87.53481388092041,Ewing Ave & Burnham Greenway,false,11,classic,41.71274876109496,false,true,[],98fe78dc-4efa-4b39-a47c-0d94abcdb221,718,718,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+20108,-87.66891896724701,Hale Ave & 107th St,false,11,classic,41.699206168127674,false,true,[],da9e6779-5056-4d45-bae3-9dc325ed2807,723,723,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+
+
+20227,-87.56459176540375,Bradley Park,false,11,classic,41.717878301935,false,true,[],ee925757-31ce-41ad-9bb7-73b1bb363616,731,731,undefined,undefined,undefined,undefined,undefined
+
+
+
+20204,-87.70096063613892,Kedzie Ave & 110th St,false,11,classic,41.69239474587557,false,true,[],8a677aec-442b-47b8-aff7-50852e1d26c0,736,736,undefined,undefined,undefined,undefined,undefined
+
+
+
+
+undefined,-87.663975,N Southport Ave & W Newport Ave,false,8,lightweight,41.944019,false,false,[],motivate_CHI_1436495115557663136,1436495115557663136,1436495115557663136,CHI,CITY_PILOT_RACK,"3420-3424, North Southport Avenue, Wrigleyville, Lake View, Chicago, Cook County, Illinois, 60613, United States of America",8,motivate_CHI_1436495115557663136
+undefined,-87.7013952,Kedzie Ave & 104th St,false,8,lightweight,41.7037764,false,false,[],motivate_CHI_1521679584953491780,1521679584953491780,1521679584953491780,CHI,CITY_PILOT_RACK,"10400-10412, South Kedzie Avenue, Mount Greenwood, Chicago, Lake Township, Cook County, Illinois, 60655, United States",8,motivate_CHI_1521679584953491780
+undefined,-87.631282,N Clark St & W Elm St,false,4,lightweight,41.902901,false,false,[],motivate_CHI_1436495096608724634,1436495096608724634,1436495096608724634,CHI,CITY_PILOT_RACK,"75, West Elm Street, Near North Side, Chicago, Cook County, Illinois, 60610, United States of America",4,motivate_CHI_1436495096608724634
+undefined,-87.6773211,Damen Ave & Wabansia Ave,false,8,lightweight,41.9122813,false,false,[],motivate_CHI_1521686986436309688,1521686986436309688,1521686986436309688,CHI,CITY_PILOT_RACK,"1953, West Wabansia Avenue, Wicker Park, West Town, Chicago, Cook County, Illinois, 60622, United States",8,motivate_CHI_1521686986436309688
+undefined,-87.615425,Martin Luther King Dr & 111th St,false,6,lightweight,41.692615,false,false,[],motivate_CHI_1448642179437434486,1448642179437434486,1448642179437434486,CHI,CITY_PILOT_RACK,"Filter Building, East 111th Street, Arcade Row, Chicago, Cook County, Illinois, 60628, United States of America",6,motivate_CHI_1448642179437434486
+undefined,-87.620843,S Michigan Ave & E 118th St,false,6,lightweight,41.679804,false,false,[],motivate_CHI_1448642175142467180,1448642175142467180,1448642175142467180,CHI,CITY_PILOT_RACK,"34, East 118th Street, Chicago, Cook County, Illinois, 60628, United States of America",6,motivate_CHI_1448642175142467180
+undefined,-87.531067,Steelworkers Park,false,6,lightweight,41.738246,false,false,[],motivate_CHI_1448642188027369090,1448642188027369090,1448642188027369090,CHI,CITY_PILOT_RACK,"Tribute to the Past, East 87th Street, South Chicago, Chicago, Cook County, Illinois, 60617, United States of America",6,motivate_CHI_1448642188027369090
+undefined,-87.649345,S Aberdeen St & W 106th St,false,3,lightweight,41.701217,false,false,[],motivate_CHI_1448642162257565290,1448642162257565290,1448642162257565290,CHI,CITY_PILOT_RACK,"Mount Vernon Elementary School, South Aberdeen Street, Washington Heights, Chicago, Cook County, Illinois, 60643, United States of America",3,motivate_CHI_1448642162257565290
+undefined,-87.59399,Woodlawn & 103rd - Olive Harvey Vaccination Site,false,10,lightweight,41.707338,false,false,[],motivate_CHI_1448642183732401786,1448642183732401786,1448642183732401786,CHI,CITY_PILOT_RACK,"10495, South Woodlawn Avenue, Chicago, Cook County, Illinois, 60628, United States of America",10,motivate_CHI_1448642183732401786
+undefined,-87.6531893,N Carpenter St & W Lake St,false,6,lightweight,41.885586,false,false,[],motivate_CHI_1436495105198659246,1436495105198659246,1436495105198659246,CHI,CITY_PILOT_RACK,"1023, West Lake Street, Near West Side, Chicago, Cook County, Illinois, 60661, United States of America",6,motivate_CHI_1436495105198659246
+undefined,-87.653449,W Armitage Ave & N Sheffield Ave,false,8,lightweight,41.917805,false,false,[],motivate_CHI_1436495105198659242,1436495105198659242,1436495105198659242,CHI,CITY_PILOT_RACK,"1964, North Sheffield Avenue, Lincoln Park, Chicago, Cook County, Illinois, 60614, United States of America",8,motivate_CHI_1436495105198659242
+undefined,-87.671469,N Paulina St & Lincoln Ave,false,6,lightweight,41.943838,false,false,[],motivate_CHI_1436495122378528446,1436495122378528446,1436495122378528446,CHI,CITY_PILOT_RACK,"3413-3419, North Lincoln Avenue, Lake View, Chicago, Cook County, Illinois, 60613, United States of America",6,motivate_CHI_1436495122378528446
+undefined,-87.6537676,N Sheffield Ave & W Wellington Ave,false,6,lightweight,41.9362263,false,false,[],motivate_CHI_1436495118083561146,1436495118083561146,1436495118083561146,CHI,CITY_PILOT_RACK,"2953-2955, North Sheffield Avenue, Lincoln Park, Lake View, Chicago, Cook County, Illinois, 60657, United States of America",6,motivate_CHI_1436495118083561146
+undefined,-87.6423847,Hampden Ct & Diversey Ave,false,8,lightweight,41.9325593,false,false,[],motivate_CHI_1521690221159885714,1521690221159885714,1521690221159885714,CHI,CITY_PILOT_RACK,"2768, North Hampden Court, Lincoln Park, Chicago, Lake View Township, Cook County, Illinois, 60614, United States",8,motivate_CHI_1521690221159885714
+undefined,-87.648484,N Green St & W Lake St,false,8,lightweight,41.885579,false,false,[],motivate_CHI_1436495109493626546,1436495109493626546,1436495109493626546,CHI,CITY_PILOT_RACK,"817, West Lake Street, Near West Side, Chicago, Cook County, Illinois, 60661, United States of America",8,motivate_CHI_1436495109493626546
+undefined,-87.6280518,S Wentworth Ave & W 111th St,false,5,lightweight,41.6926176,false,false,[],motivate_CHI_1448642162257565286,1448642162257565286,1448642162257565286,CHI,CITY_PILOT_RACK,"207, West 111th Street, Morgan Park, Chicago, Cook County, Illinois, 60643, United States of America",5,motivate_CHI_1448642162257565286
+undefined,-87.6319447,Ping Tom Park (East),false,6,lightweight,41.8579886,false,false,[],motivate_CHI_1500206163166594382,1500206163166594382,1500206163166594382,CHI,CITY_PILOT_RACK,"Stone Talk, South Wentworth Avenue, Near South Side, South Loop, Chicago, Cook County, Illinois, 60616, United States",6,motivate_CHI_1500206163166594382
+undefined,-87.617054,Indiana Ave & 133rd St,false,6,lightweight,41.653564,false,false,[],motivate_CHI_1448642188027369086,1448642188027369086,1448642188027369086,CHI,CITY_PILOT_RACK,"210, East 133rd Street, Riverdale, Chicago, Cook County, Illinois, 60827, United States of America",6,motivate_CHI_1448642188027369086
+undefined,-87.649931,W Washington Blvd & N Peoria St,false,6,lightweight,41.883043,false,false,[],motivate_CHI_1436495109493626544,1436495109493626544,1436495109493626544,CHI,CITY_PILOT_RACK,"901, West Washington Boulevard, Near West Side, Chicago, Cook County, Illinois, 60644, United States of America",6,motivate_CHI_1436495109493626544
+undefined,-87.717074,W 103rd St & S Avers Ave,false,10,lightweight,41.705846,false,false,[],motivate_CHI_1448642179437434482,1448642179437434482,1448642179437434482,CHI,CITY_PILOT_RACK,"Graham School of Management, South Avers Avenue, Mount Greenwood, Chicago, Cook County, Illinois, 60655, United States of America",10,motivate_CHI_1448642179437434482
+undefined,-87.602938,Maryland Ave & 104th St,false,10,lightweight,41.705588,false,false,[],motivate_CHI_1448642183732401788,1448642183732401788,1448642183732401788,CHI,CITY_PILOT_RACK,"Pullman Wheel Works, 833-901, East 104th Street, Chicago, Cook County, Illinois, 60628, United States of America",10,motivate_CHI_1448642183732401788
+undefined,-87.5365497,Avenue L & 114th St,false,10,lightweight,41.6881169,false,false,[],motivate_CHI_1448642175142467184,1448642175142467184,1448642175142467184,CHI,CITY_PILOT_RACK,"George Washington High School, South Avenue L, East Side, Chicago, Cook County, Illinois, 60617, United States of America",10,motivate_CHI_1448642175142467184
+undefined,-87.644042,W Oakdale Ave & N Broadway,false,6,lightweight,41.935581,false,false,[],motivate_CHI_1436495100903691938,1436495100903691938,1436495100903691938,CHI,CITY_PILOT_RACK,"2919-2935, North Broadway, Lincoln Park, Lake View, Chicago, Cook County, Illinois, 60657, United States of America",6,motivate_CHI_1436495100903691938
+undefined,-87.678519,N Damen Ave & W Chicago Ave,false,6,lightweight,41.895809,false,false,[],motivate_CHI_1436495119852630436,1436495119852630436,1436495119852630436,CHI,CITY_PILOT_RACK,"Mariano's, 2021, West Chicago Avenue, West Town, Chicago, Cook County, Illinois, 60622, United States of America",6,motivate_CHI_1436495119852630436
