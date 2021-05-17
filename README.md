@@ -32,7 +32,7 @@ npm install
 ```
 
 ## Server StartUp --- Step 2
-For Starting HAPI Server:
+For Starting HAPI Server: (This App cannot be tested in Local as we are injecting the server on AWS Lambda)
 ```sh
 npm start
 ```
@@ -48,7 +48,7 @@ npm test
 👤 **Sree**
 
 * Github: (https://github.com/sree70/hapiproject.git)
-* LinkedIn: [@hhhh](https://linkedin.com/in/hhhh)
+* LinkedIn: https://www.linkedin.com/in/sree-d/
 
 
 
