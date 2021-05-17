@@ -45,7 +45,7 @@ npm test
 
 ## Author
 
-👤 **Harsha**
+👤 **Sree**
 
 * Github: (https://github.com/sree70/hapiproject.git)
 * LinkedIn: [@hhhh](https://linkedin.com/in/hhhh)
