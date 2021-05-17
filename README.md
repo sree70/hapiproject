@@ -47,7 +47,7 @@ npm test
 
 👤 **Harsha**
 
-* Github: [@saikudumula](https://github.com/sree70/hapiproject.git)
+* Github: (https://github.com/sree70/hapiproject.git)
 * LinkedIn: [@hhhh](https://linkedin.com/in/hhhh)
 
 
