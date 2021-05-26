@@ -12,11 +12,11 @@ var AccessKeyId = "";
 var SecretAccessKey = "";
 var s3 = "";
 
-function startApiCall(bucketName, accessKeyId, secretAccessKey) {
+async function startApiCall(bucketName, accessKeyId, secretAccessKey) {
   BucketName = bucketName;
   AccessKeyId = accessKeyId;
   SecretAccessKey = secretAccessKey;
-  fetch(apiUrl, {
+ await  fetch(apiUrl, {
     method: "GET",
     headers: {
       Accept: "application/json"
@@ -30,7 +30,7 @@ function startApiCall(bucketName, accessKeyId, secretAccessKey) {
   });
 }
 
-function startDataFilteration(data) {
+async function startDataFilteration(data) {
   for (var i = 0; i < data.data.stations.length; i++) {
     delete data.data.stations[i]["rental_methods"];
     delete data.data.stations[i]["rental_uris"];
@@ -44,11 +44,11 @@ function startDataFilteration(data) {
       delete data.data.stations[i];
     }
   }
-  startCsvConversion(data);
+ await startCsvConversion(data);
   return data;
 }
 
-function startCsvConversion(data) {
+ function startCsvConversion(data) {
   converter.json2csv(data.data.stations, (err, csv) => {
     if (err) {
       throw err;
@@ -56,13 +56,13 @@ function startCsvConversion(data) {
     csvObject = csv;
 
     /*File writing*/
-    fs.writeFile(fileName, csv, "utf8", function(err) {
+     fs.writeFile(fileName, csv, "utf8", function(err) {
       if (err) {
         console.log(
           "Some error occured - file either not saved or corrupted file saved."
         );
       } else {
-        transferFileToS3();
+         transferFileToS3();
         console.log("File Has been saved to fileSystem!");
       }
     });
